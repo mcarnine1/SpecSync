@@ -1,0 +1,2 @@
+# SpecSync
+Spec sync example
